@@ -1,1 +1,3 @@
 This will be for general notes throughout this course.
+
+That looks just fine.
